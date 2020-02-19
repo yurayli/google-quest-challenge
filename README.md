@@ -12,7 +12,7 @@ Identify and segment the required class of cloud organization from given satelli
 * Pooling and then concatenation of last few hidden states from BERT
 * Multi-sample dropout
 
-<img src="arch.png" width="400"/>
+<img src="arch.png" width="460"/>
 
 #### Data
 * 5-fold split
