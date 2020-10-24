@@ -24,7 +24,8 @@ Computers are good at answering questions with single, verifiable answers. But h
 * BCE Loss for 30 multi-labels
 
 
-### Environment
-kaggle kernel with nvidia tesla p100  
+## Environment
+nvidia tesla p100  
 nvidia [apex](https://www.kaggle.com/shutil/nvidia-apex)  
 pytorch 1.2.0  
+transformers 2.3.0
