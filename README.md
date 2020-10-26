@@ -15,13 +15,13 @@ Computers are good at answering questions with single, verifiable answers. But h
 <img src="arch.png" width="460"/>
 
 ### Data
-* 5-fold split
+* 5-fold group k-fold split
 * Augmentation with multiple truncations of the sequence (head, tail, mix)
-* TTA, same from multiple truncations
+* TTA
 
 ### Optimizer
 * AdamW with linear warmup and linear annealing learning rate schedule
-* BCE Loss for 30 multi-labels
+* BCE Loss for 30 multiple soft labels
 
 
 ## Environment
