@@ -1,7 +1,7 @@
 # Google quest challenge
 
 ----
-solution to the competition https://www.kaggle.com/c/google-quest-challenge. 240 place with no post-processing. With post-processing, the output of the model could be in the silver medal zone.
+solution to the competition https://www.kaggle.com/c/google-quest-challenge. 240th place with no post-processing. With post-processing, the output of the model could be in the silver medal zone.
 
 ## Overview
 ### Task
